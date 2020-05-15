@@ -2,10 +2,53 @@
     display:flex;
     justify-content:center;
      align-item:center;
-     background-color: rgb(170, 235, 231);
+     background-color: rgb(255, 255, 255);
+     padding-bottom: 20px;
+     width: 700px;
+     border-bottom-left-radius: 10px;
+     border-bottom-right-radius: 10px;
+     left: 500px;
+     
    
   }
+  #formContainer1{
+    display:flex;
+    justify-content:center;
+     align-item:center;
+     background-color: rgb(255, 255, 255);
+     padding-bottom: 20px;
+     width: 700px;
+     margin-left: 500px;
+     margin-top: 50px;
+     border-top-left-radius: 10px;
+     border-top-right-radius: 10px;
+   
+  }
+
+  #formContainer2{
+    display:flex;
+    justify-content:center;
+     align-item:center;
+     background-color: rgb(255, 255, 255);
+     padding-bottom: 20px;
+     width: 700px;
+     margin-left: 500px;
+
+   
+  }
+
   #description{
     display:block;
     position:relative;
+  }
+
+  #title {
+    margin: 8px;
+    color:  rgba(34,193,195,1);
+    font-size: 50px;
+  }
+
+  body {
+
+  color: beige;
   }
